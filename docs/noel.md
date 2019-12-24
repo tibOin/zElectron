@@ -12,8 +12,8 @@ En fait c'est plus long que compliqué. Et je suis trèèèès paresseux.
 Le projet vient à l'origine du fait que ma compagne avait acheté une plante
 carnivore assez imposante du nom de *Nepenthes*. Cette plante, étonnament belle,
 se trouve être également sensible à son environnement et notamment à l'humidité
-(ou plutôt son absence) et la température. N'ayant pas trop la main verte par
-manque d'investissement personnel je me suis dit qu'on pourrait créer un système
+(ou plutôt son absence) et la température. <br>
+N'ayant pas trop la main verte par manque d'investissement personnel je me suis dit qu'on pourrait créer un système
 automatisé qui ne nécessiterait qu'une surveillance périodique. Et j'avais déjà
 un point de départ : un Parrot Pot. Un pot automatisé Bluetooth pour les plantes.
 (À terme il s'avère que c'est une belle merde... Payé 150€ pour le premier qui
