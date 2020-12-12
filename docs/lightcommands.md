@@ -21,7 +21,7 @@ Après cette petite expérience, je résume les observations :
   - Problème d'amplification ? A priori non, puisque rien n'est lu. Mais on ne sait pas encore.
   - Pas de Bluetooth. Pourquoi ? -> Le truc a été récupéré dans une "poubelle". Ne marche plus ?
 
-Bon, ne sachant pas depuis combien de temps ça n'avait pas été chargé je trouve un cable adequat et une prise 230V~/5Vcc et je branche le bazar.
+Bon, ne sachant pas depuis combien de temps ça n'avait pas été chargé je trouve un cable adequat et une prise `230V~/5Vcc` et je branche le bazar.
 Allez, a tout hasard je rallume et je lance la détection Bluetooth. IL EST LÀ !
 Je balance un p'tit son. Qualité de merde, mais ça fonctionne !
 
@@ -32,14 +32,14 @@ Ok. Cette enceinte Bluetooth est parfaitement fonctionnelle. Et dire qu'elle all
 On peut faire plein de trucs avec un enceinte Bluetooth. C'est sûr. Mais quoi ?...
 J'en sais rien. Je la laisse de côté un moment. Et puis je tombe sur cette article sur un possible Hack des différents dispositifs Alexa, Ok Google, Siri, etc.
 par laser. Et putain que c'est simple ! Il suffit de balancer un signal audio dans un laser et de pointer le tout sur le micro du bordel. Et boum ! On peut passer
-des commandes vocales en silence. Et depuis très loin. (Un laser c'est puissant !). En plus, un simple pointeur laser suffit. 5mW c'est suffisant pour la plupart des
+des commandes vocales en silence. Et depuis très loin. (Un laser c'est puissant !). En plus, un simple pointeur laser suffit. `5mW` c'est suffisant pour la plupart des
 appareils.
 Eh ! Mais j'ai un petit module laser Elegoo dans ma boite ! Et j'ai une enceinte Bluetooth ! J'ai mon ampli audio. Mon pont avec l'ordi et ma sortie lumineuse !
 Tout est réuni pour bidouiller un p'tit dispositif de test. Une PoC (Proof of Concept).
 
 ### Phase 3 : Hack de l'enceinte
 
-Après une étude visuelle approfondie du circuit du machin. Et ayant pris connaissance des 3 bornes de mon module laser (-, + et Signal).
+Après une étude visuelle approfondie du circuit du machin. Et ayant pris connaissance des 3 bornes de mon module laser (`-`, `+` et `Signal`).
 Je trouve le moyen de connecter mon laser pour qu'il remplisse la tâche que je veux lui assigner. 
 
 [Image 1](image1)
