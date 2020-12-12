@@ -42,7 +42,7 @@ Tout est réuni pour bidouiller un p'tit dispositif de test. Une PoC (Proof of C
 Après une étude visuelle approfondie du circuit du machin. Et ayant pris connaissance des 3 bornes de mon module laser (`-`, `+` et `Signal`).
 Je trouve le moyen de connecter mon laser pour qu'il remplisse la tâche que je veux lui assigner. 
 
-[Image 1](/zElectron/images/IMG_0117.HEIC)
+![Image 1](/zElectron/docs/images/IMG_0117.HEIC)
 
 Plus qu'à mettre en pratique. J'ai pris 3 jumpers femelle-femelle que j'ai coupé pour avoir d'un coté le socket et de l'autre le fil à nu. 
 Et j'ai soudé les fils sur la carte. J'ai viré la sortie jack pour y mettre le laser à la place. 
@@ -52,9 +52,9 @@ Bon, ne critiquez pas les soudures, j'avais plus d'étain j'ai réutilisé celui
 Il restait un détail pour le moins gênant. Cette LED qui m'indiquait que l'enceinte fonctionne, maintenant parasite ma sortie laser. Qu'à cela ne tienne,
 je la couvre de gaine themorétractable noire. Et le tour est joué.
 
-[Image 2](image2)
-[Image 3](image3)
-[Image 4](image4)
+![Image 2](image2)
+![Image 3](image3)
+![Image 4](image4)
 
 Et le resultat est là. En plus c'est vachement discret. Si ce n'est qu'il n'y a plus aucun son.
 
