@@ -42,7 +42,7 @@ Tout est réuni pour bidouiller un p'tit dispositif de test. Une PoC (Proof of C
 Après une étude visuelle approfondie du circuit du machin. Et ayant pris connaissance des 3 bornes de mon module laser (`-`, `+` et `Signal`).
 Je trouve le moyen de connecter mon laser pour qu'il remplisse la tâche que je veux lui assigner. 
 
-![illustration](https://raw.githubusercontent.com/tibOin/zElectron/master/docs/_site/assets/images/lightcommands/back.png")
+![illustration](https://raw.githubusercontent.com/tibOin/zElectron/master/docs/_site/assets/images/lightcommands/back.png)
 
 Plus qu'à mettre en pratique. J'ai pris 3 jumpers femelle-femelle que j'ai coupé pour avoir d'un coté le socket et de l'autre le fil à nu. 
 Et j'ai soudé les fils sur la carte. J'ai viré la sortie jack pour y mettre le laser à la place. 
